@@ -7,11 +7,11 @@ Actualmente finalicé mis estudios como desarrolladora web y mobile full-stack M
 #### ¡A continuación podrás ver mi portfolio! 👇
 
 #### Quickly Food E-commerce:
-WebApp: https://quickly-food.herokuapp.com/
-Repositorio - Web: https://github.com/Ndorola/quickly-web
-Repositorio - Mobile: https://github.com/Ndorola/quickly-mobile
+>- WebApp: https://quickly-food.herokuapp.com/
+>- Repositorio - Web: https://github.com/Ndorola/quickly-web
+>- Repositorio - Mobile: https://github.com/Ndorola/quickly-mobile
 
 #### Finanzas Simples
-WebApp: https://finanzas-simples.herokuapp.com/
-Repositorio - SQL: https://github.com/Ndorola/finanzasSimples-SQL
-Repositorio - Mongo DB: https://github.com/Ndorola/finanzas-simples
+>- WebApp: https://finanzas-simples.herokuapp.com/
+>- Repositorio - SQL: https://github.com/Ndorola/finanzasSimples-SQL
+>- Repositorio - Mongo DB: https://github.com/Ndorola/finanzas-simples
