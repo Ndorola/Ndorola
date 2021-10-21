@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="20px"> Hi there! I’m Nicole Dorola
+Hi there! <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="18px"> I’m Nicole Dorola
 
 👩🏻‍💻 I’m interested in working as full-stack developer. 
 
