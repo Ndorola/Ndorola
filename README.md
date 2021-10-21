@@ -1,11 +1,10 @@
-Hola! <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="18px">
+### Hola! <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="18px"> Soy Nicole Dorola
+[![Github Ndorola](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ndorola)
+[![Linkedin Nicole Dorola](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicoledorola/)
 
-Soy Nicole Dorola
-[! [ Github ] (https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)] (https://github.com/Ndorola)
-[! [ Linkedin ] (https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)] (https://www.linkedin.com/in/nicoledorola/)
-[! [ Gmail ] (https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)] (mailto: nicole.dorola@gmail.com)
-
-¡Bienvenido a mi página de Github! Actualmente finalicé mis estudios como desarrolladora web y mobile full-stack MERN en MindHub LA y estoy interesada en encontrar un trabajo donde pueda expandir mi conocimiento, crecer y desarrollarme profesionalmente. A continuación podrás ver mi portfolio.
+### ¡Bienvenido a mi página de Github!
+Actualmente finalicé mis estudios como desarrolladora web y mobile full-stack MERN en MindHub LA y estoy interesada en encontrar un trabajo donde pueda expandir mi conocimiento, crecer y desarrollarme profesionalmente.
+A continuación podrás ver mi portfolio 👇🏼
 
 <!--
 **Ndorola/Ndorola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
