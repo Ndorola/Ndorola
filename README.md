@@ -4,7 +4,7 @@
 
 ### ¡Bienvenido a mi página de Github!
 Actualmente finalicé mis estudios como desarrolladora web y mobile full-stack MERN en MindHub LA y estoy interesada en encontrar un trabajo donde pueda expandir mi conocimiento, crecer y desarrollarme profesionalmente.
-#### A continuación podrás ver mi portfolio 👇🏼
+#### ¡A continuación podrás ver mi portfolio! 👇
 
 <!--
 **Ndorola/Ndorola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
