@@ -15,3 +15,11 @@ Actualmente finalicé mis estudios como desarrolladora web y mobile full-stack M
 >- WebApp: https://finanzas-simples.herokuapp.com/
 >- Repositorio - SQL: https://github.com/Ndorola/finanzasSimples-SQL
 >- Repositorio - Mongo DB: https://github.com/Ndorola/finanzas-simples
+>
+
+
+<!-- <div align="center">
+
+<a href="https://github.com/Ndorola/Ndorola/blob/main/README.md"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndorola&layout=compact&theme=monokai&langs_count=6" /></a>
+  
+</div> -->
