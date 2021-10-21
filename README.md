@@ -4,7 +4,7 @@ Hi there! I’m Nicole Dorola 👋
 
 🔎 How to reach me: https://www.linkedin.com/in/nicoledorola/
 
-⚡ Fun fact: I love the design, user experience and user interface.
+⚡ Fun fact: I love the design user experience and user interface.
 
 <!--
 **Ndorola/Ndorola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
