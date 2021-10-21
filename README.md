@@ -17,7 +17,12 @@ Actualmente finalicé mis estudios como desarrolladora web y mobile full-stack M
 >- WebApp: https://finanzas-simples.herokuapp.com/
 >- Repositorio - SQL: https://github.com/Ndorola/finanzasSimples-SQL
 >- Repositorio - Mongo DB: https://github.com/Ndorola/finanzas-simples
-
+  
+#### Algunos de los proyectos realizados 👇
+  <div>
+    <img src="https://i.postimg.cc/xC7yk50q/Algunos-de-los-proyectos-Mind-Hub-LA.png"/>
+  </div>
+  
 </details>
 
 <h4 align="left">Lenguajes y heramientas:</h4>
