@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there! I’m Nicole Dorola 👋
+
+👩🏻‍💻 I’m interested in working as full-stack remote developer. 
+
+🔎 How to reach me: https://www.linkedin.com/in/nicoledorola/
 
 <!--
 **Ndorola/Ndorola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
