@@ -1,6 +1,6 @@
 Hi there! I’m Nicole Dorola 👋
 
-👩🏻‍💻 I’m interested in working as full-stack remote developer. 
+👩🏻‍💻 I’m interested in working as full-stack developer. 
 
 🔎 How to reach me: https://www.linkedin.com/in/nicoledorola/
 
