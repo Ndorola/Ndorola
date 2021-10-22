@@ -6,7 +6,7 @@
 Actualmente finalicé mis estudios como desarrolladora web y mobile full-stack MERN en MindHub LA y estoy interesada en encontrar un trabajo donde pueda expandir mi conocimiento, crecer y desarrollarme profesionalmente.
 
 <details>
-<summary> ¡A continuación podrás ver mi portfolio! 👇 </summary>
+<summary> ¡A continuación podrás ver trabajos realizados! 👇 </summary>
 
 #### 🍔 Quickly e-commerce
 >- WebApp: https://quickly-food.herokuapp.com/
