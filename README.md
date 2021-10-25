@@ -21,7 +21,7 @@ Actualmente finalicé mis estudios como desarrolladora web y mobile full-stack M
 >- WebApp: https://leagueofhighlights.herokuapp.com/
 >- Repositorio: https://github.com/ltherisod/League-of-Highlights
   
-#### Algunos de los proyectos realizados 👇
+
   <div>
     <img src="https://i.postimg.cc/xC7yk50q/Algunos-de-los-proyectos-Mind-Hub-LA.png"/>
   </div>
