@@ -23,7 +23,7 @@ Actualmente finalicé mis estudios como desarrolladora web y mobile full-stack M
   
 
   <div>
-    <img src="https://i.postimg.cc/xC7yk50q/Algunos-de-los-proyectos-Mind-Hub-LA.png"/>
+    <img src="https://i.postimg.cc/xC7yk50q/Algunos-de-los-proyectos-Mind-Hub-LA.png" width="600"/>
   </div>
  
 
