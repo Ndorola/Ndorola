@@ -5,7 +5,6 @@
 ### ¡Bienvenido a mi página de Github!
 Actualmente finalicé mis estudios como desarrolladora web y mobile full-stack MERN en MindHub LA y estoy interesada en encontrar un trabajo donde pueda expandir mi conocimiento, crecer y desarrollarme profesionalmente.
 
-<details>
 <summary> ¡A continuación podrás ver trabajos realizados! 👇 </summary>
 
 #### 🍔 Quickly e-commerce
@@ -26,8 +25,7 @@ Actualmente finalicé mis estudios como desarrolladora web y mobile full-stack M
   <div>
     <img src="https://i.postimg.cc/xC7yk50q/Algunos-de-los-proyectos-Mind-Hub-LA.png"/>
   </div>
-  
-</details>
+ 
 
 <h4 align="left">Lenguajes y heramientas:</h4>
 <div style="display: inline_block"><br>
