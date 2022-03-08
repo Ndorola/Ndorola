@@ -1,4 +1,4 @@
-### Hola! <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="18px"> Soy Nicole Dorola
+<!-- ### Hola! <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="18px"> Soy Nicole Dorola
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="78px" />](https://www.linkedin.com/in/nicoledorola/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="58px" />](mailto:nicole.dorola1@gmail.com)
 
@@ -41,7 +41,7 @@ Actualmente finalicé mis estudios como desarrolladora web y mobile full-stack M
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/>
-</div>
+</div> -->
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=Ndorola&style=flat&color=orange&label=PROFILE+VIEWS) -->
